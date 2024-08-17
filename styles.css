@@ -11,7 +11,7 @@
 }
 
 .navbar {
-    background:#f2f5ff;
+    background:#d9e0f7;
     height: 80px;
     display: flex;
     justify-content: center;
@@ -34,7 +34,7 @@
 }
 
 #navbar__logo {
-    background-color:rgb(0, 198, 233);
+    background-color:rgb(255, 255, 255);
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -63,7 +63,7 @@
 }
 
 .navbar__links {
-    color:#fff;
+    color:#8bb9ff;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -91,8 +91,8 @@
     border: none;
     outline: none;
     border-radius: 4px;
-    background: rgb(0, 198, 233);
-    color:#000000;
+    background: rgb(255, 255, 255);
+    color:#8bb9ff;
 }
 
 .button:hover {
@@ -101,7 +101,7 @@
 }
 
 .navbar__links:hover {
-    color:rgb(0, 198, 233);
+    color:rgb(208, 182, 255);
     transition: all 0.3s ease;
 }
 
@@ -130,7 +130,7 @@
     }
     
     .navbar__menu.active {
-        background: #131313;
+        background: #d9e0f7;
         top: 100%;
         opacity: 1;
         transition: all 0.5s ease;
@@ -203,7 +203,7 @@
 
 
 .main {
-    background-color: #141414
+    background-color: #ffffff
 }
 
 .main__container {
@@ -213,7 +213,7 @@
     justify-self: center;
     margin: 0 auto;
     height: 90vh;
-    background-color: #141414;
+    background-color: #ffffff;
     z-index: 1;
     width: 100%;
     max-width: 1300px;
@@ -223,7 +223,7 @@
 .main__content h1 {
     text-align: center;
     font-size: 4rem;
-    background-color: rgb(255, 0, 191);
+    background-color: rgb(187, 211, 255);
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -234,7 +234,7 @@
 .main__content h2 {
     text-align: center;
     font-size: 4rem;
-    background-color: rgb(0, 255, 60);
+    background-color: rgb(208, 179, 255);
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -247,7 +247,7 @@
     margin-top: 1rem;
     font-size: 2rem;
     font-weight: 700;
-    color: rgb(0, 198, 233)
+    color: rgb(255, 174, 235)
 }
 
 
@@ -331,7 +331,7 @@
 .main__content2 h1 {
     text-align: center;
     font-size: 4rem;
-    background-color: rgb(255, 0, 191);
+    background-color: rgb(189, 199, 255);
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -342,7 +342,7 @@
 .main__content2 h2 {
     text-align: center;
     font-size: 4rem;
-    background-color: rgb(0, 255, 60);
+    background-color: rgb(198, 162, 255);
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
