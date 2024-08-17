@@ -2,12 +2,14 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-   {
-  font-family: "Caveat", cursive;
-  font-optical-sizing: auto;
-  font-weight: <400>;
-  font-style: normal;
-}
+   
+    .caveat {
+        font-family: "Caveat", cursive;
+        font-optical-sizing: auto;
+        font-weight: <400>;
+        font-style: normal;
+      }
+
 }
 
 .navbar {
