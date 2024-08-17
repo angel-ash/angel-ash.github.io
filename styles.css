@@ -10,6 +10,12 @@
 
 }
 
+@media (forced-colors: active) {
+    :root {
+        color-scheme: light;
+    }
+}
+
 body { 
    background-image: linear-gradient(#ffffff, #ffffff); 
    background-color: #000000;
